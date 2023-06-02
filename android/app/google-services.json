@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "868741922083",
+    "firebase_url": "https://torrefacteurk-524a6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "torrefacteurk-524a6",
+    "storage_bucket": "torrefacteurk-524a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868741922083:android:7cea3e07f7650daf0c2096",
+        "android_client_info": {
+          "package_name": "com.example.torrefacteur_k"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBILeclhvlY2586-Y1O8xFZnWWoAXgt0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
